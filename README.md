@@ -5,3 +5,4 @@
 =======
 "## Update from feature-1 branch" 
 >>>>>>> feature-1
+"## Preparing version 1.0 release" 
